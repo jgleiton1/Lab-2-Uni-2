@@ -17,11 +17,11 @@ Realizar los calculos adecuados para comprobar con los datos que se obtuvieron e
 
 3. Requerimientos previos
 
-![image](https://user-images.githubusercontent.com/93958596/149257326-dfddc2b3-4a12-48d5-96c0-326e1f397373.png)
-![image](https://user-images.githubusercontent.com/93958596/149257347-725e636b-51c3-4a9a-800f-9a8a27e06613.png)
-![image](https://user-images.githubusercontent.com/93958596/149257366-1237530e-4bc9-4429-b3b3-a842abc53546.png)
-![image](https://user-images.githubusercontent.com/93958596/149257381-51d91879-76c3-48c4-ab26-052fda84adde.png)
-![image](https://user-images.githubusercontent.com/93958596/149257398-8551e700-3675-4137-82f3-189774735144.png)
+![image](https://user-images.githubusercontent.com/93958596/149264615-6466199d-bd8c-463d-9de9-03f6dfadf934.png)
+![image](https://user-images.githubusercontent.com/93958596/149264640-8e4da11c-7d10-4674-b86b-e285b0a6908b.png)
+![image](https://user-images.githubusercontent.com/93958596/149264655-2970c138-43d8-48cb-b226-f5951c3cd2f7.png)
+![image](https://user-images.githubusercontent.com/93958596/149264671-06522569-6bff-4138-9475-bc74d9a4a297.png)
+![image](https://user-images.githubusercontent.com/93958596/149264690-a8ae95b3-8a77-4ca1-92bf-9957f079872e.png)
 
 4. Materiales y equipos requeridos
 
