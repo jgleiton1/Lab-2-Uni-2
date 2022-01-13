@@ -29,3 +29,8 @@ Realizar los calculos adecuados para comprobar con los datos que se obtuvieron e
 
 5. Respuestas a interrogantes y calculo de error
 
+6. Vedeo
+
+7. Conclusiones
+
+8. Bibliografía
