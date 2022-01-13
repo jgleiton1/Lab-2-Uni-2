@@ -101,6 +101,8 @@ Y el voltaje en R5 es:
 
 6. Video
 
+https://www.youtube.com/watch?v=SRS8Fgav-JA
+
 7. Conclusiones
 
 Para armar el respectivo cicuito se necesita dos fuentes de voltaje cd, 5 ressitencias y multimetros para posterior mente medir el volataje del cicuito principal y despues del voltaje VTH y la resistencia RTH cuando esta abierto el circuit , por ello  los valores para la forma general del circuito de thevenin es VTH = 5.06 V y RTH = 299 ohmios los cuales se coloca en el respectivo circuito en serie. 
