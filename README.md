@@ -15,7 +15,9 @@ Realizar los calculos adecuados para comprobar con los datos que se obtuvieron e
 
 2. Marco teórico
 
-3. Requerimientos previos
+![image](https://user-images.githubusercontent.com/94153604/149265727-35503b4f-8f62-43ce-a860-c626bce7353e.png)
+
+3. Requisitos previos
 
 ![image](https://user-images.githubusercontent.com/93958596/149264615-6466199d-bd8c-463d-9de9-03f6dfadf934.png)
 ![image](https://user-images.githubusercontent.com/93958596/149264640-8e4da11c-7d10-4674-b86b-e285b0a6908b.png)
