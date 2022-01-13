@@ -3,7 +3,15 @@
 
 1.1 Objetivo General
 
+Analizar y armar el circuito, mediante el uso de una herramienta digital y de conceptos principal para comprobar por medio del experimento el Teoema de Thévenin en un circuito resistivo .
+
 1.2 Objetivos Específicos
+
+Identificar los componentes principal del circuito  para poder armarlo y realizar las medidas correspondientes. 
+
+Conocer los conceptos principales sobre el teorema de Thévenin para analizar adecuadamente el circuito.
+
+Realizar los calculos adecuados para comprobar con los datos que se obtuvieron el experimento. 
 
 2. Marco teórico
 
