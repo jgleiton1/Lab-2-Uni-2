@@ -103,6 +103,11 @@ Y el voltaje en R5 es:
 
 7. Conclusiones
 
+Para armar el respectivo cicuito se necesita dos fuentes de voltaje cd, 5 ressitencias y multimetros para posterior mente medir el volataje del cicuito principal y despues del voltaje VTH y la resistencia RTH cuando esta abierto el circuit , por ello  los valores para la forma general del circuito de thevenin es VTH = 5.06 V y RTH = 299 ohmios los cuales se coloca en el respectivo circuito en serie. 
+
+El metodo de Thevenin se lo considera util para facilitar el análisis de circuitos complejos, puesto que esta compuesto por el VTH y la RTH los cuales por general en el circuito de thevenin el vaoltaje se ebcuentra en serie con la resisencia , sin embargo se puede manifertar que el circuito equivalente de thevenin no es el mismo que el circuito general y cabe recalcar que para obtener el valores que se necesitan no existen formulas específicas sino que se debe realizar el respectivo analisis. 
+
+Para obtener el VTH y la RTH se debe analizar la manera en la cual se encuentran las resistencias ya sea en serie o en paralelo como R1 y R2 estan en paralelo al igual que R1 y R3, estan en serie R2 y R4  y para calcular el VTH se debe quitar R5 y dejarlo en corto cuircuito , después se procede a obtener un sistema de ecuaciones para obtener el valor de la corriente y con el uso de la ley de Ohm se puede hallar el valor de VR3 el cual es igual al VTH y con ello se arma el respectivo circuito equivalente, cabe recalcalcar que el analisis de cada circuito es diferente. 
 8. Bibliografía
 
 Floyd, T. (2007). Principio de Circuitos Eléctricos. Pearson, Prentice Hall
