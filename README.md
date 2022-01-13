@@ -36,3 +36,6 @@ Realizar los calculos adecuados para comprobar con los datos que se obtuvieron e
 7. Conclusiones
 
 8. Bibliografía
+
+Floyd, T. (2007). Principio de Circuitos Eléctricos. Pearson, Prentice Hall
+
